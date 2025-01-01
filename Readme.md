@@ -1,7 +1,8 @@
 # Hotel Reservation System 
 
 # Overview:
-The Hotel Reservation System is a backend-focused project designed to manage hotel operations efficiently. This system allows seamless handling of room bookings, customer data, billing, and administrative tasks.
+The Hotel Reservation System is a backend-focused project designed to manage hotel operations efficiently. 
+This system allows seamless handling of room bookings, customer data, billing, and administrative tasks.
 
 # Features:
 Room Reservation Management: Handles bookings, cancellations, and availability tracking.
